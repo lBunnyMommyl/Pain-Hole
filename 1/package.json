@@ -5,6 +5,7 @@
   "main": "temp.js",
   "scripts": {
     "start": "node index"
+    "color": "node script"
   },
   "repository": {
     "type": "git",
