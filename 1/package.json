@@ -4,8 +4,7 @@
   "description": "Пиво",
   "main": "temp.js",
   "scripts": {
-    "start": "node index"
-    "color": "node script"
+    "color": "node script.js"
   },
   "repository": {
     "type": "git",
