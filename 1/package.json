@@ -5,7 +5,8 @@
   "main": "temp.js",
   "scripts": {
     "start": "node index.js",
-    "color": "node script.js"
+    "color": "node script.js",
+    "date": "node script2.js"
   },
   "repository": {
     "type": "git",
